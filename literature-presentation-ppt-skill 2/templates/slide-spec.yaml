@@ -1,0 +1,46 @@
+slide_number: 1
+section: "文献概况"
+slide_type: "title | profile | background | method | result | discussion | appraisal | implication | appendix"
+title: ""
+conclusion_subtitle: ""
+purpose: "This slide should answer..."
+main_takeaway: "One sentence only"
+audience_question: "What should the audience understand after this slide?"
+content:
+  required_text: []
+  key_numbers: []
+  definitions: []
+  cautions: []
+evidence:
+  - source_type: "paper_main | supplement | protocol | official_source | methods_paper | related_study | user_material"
+    source_title: ""
+    pdf_page: ""
+    table_or_figure: ""
+    exact_claim: ""
+visual:
+  layout: "left_evidence_right_interpretation | timeline | flowchart | comparison | cards | full_figure | other"
+  primary_visual: ""
+  native_objects: []
+  source_figure_crop: false
+  native_chart: false
+  native_table: false
+  generated_reference_needed: true
+  transparent_assets_needed: []
+  generated_reference_constraints:
+    - "No exact statistics"
+    - "No dense formal text"
+    - "No fabricated chart"
+interpretation_panel:
+  what_it_shows: ""
+  how_to_read: ""
+  key_result: ""
+  scientific_meaning: ""
+  what_it_cannot_show: ""
+footer:
+  references: []
+  source_note: ""
+quality_checks:
+  exact_numbers_verified: false
+  source_location_verified: false
+  text_overflow_checked: false
+  editability_checked: false
