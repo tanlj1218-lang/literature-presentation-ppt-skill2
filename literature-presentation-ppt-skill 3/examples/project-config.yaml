@@ -1,0 +1,30 @@
+project_name: "example-literature-report"
+paper_pdf: "inputs/paper.pdf"
+supplements: []
+user_template: null
+presentation_language: "zh-CN"
+target_minutes: 45
+slide_ratio: "16:9"
+font_cn: "Microsoft YaHei"
+required_sections:
+  - article_profile
+  - abstract
+  - introduction
+  - theoretical_foundation
+  - theory_to_study_mapping
+  - methods
+  - results
+  - discussion
+  - methodological_appraisal
+  - summary
+  - implications_for_user_research
+  - reproducibility_appendix
+visual_reference_generation: true
+native_ppt_reconstruction: true
+evidence_tracking: true
+external_literature_search: true
+theory_reconstruction: true
+references_on_every_substantive_slide: true
+content_occupancy_target_percent: "70-88"
+maximum_single_blank_region_percent: 18
+minimum_content_units_per_slide: 2
