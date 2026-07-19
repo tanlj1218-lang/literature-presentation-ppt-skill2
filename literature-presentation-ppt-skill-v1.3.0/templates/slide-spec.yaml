@@ -1,0 +1,97 @@
+slide_number: 1
+section: "文献概况"
+slide_type: "title | profile | background | theory | method | result | discussion | appraisal | implication | references | appendix"
+page_archetype: "editorial_two_column | large_evidence_interpretation | full_width_logic_chain | comparison_matrix | single_conclusion"
+title: "结论式标题"
+conclusion_subtitle: ""
+purpose: "This slide should answer..."
+audience_question: "What exact scientific question should the audience understand after this slide?"
+main_takeaway: "One sentence only"
+logic_chain:
+  previous_slide_established: ""
+  current_slide_adds: ""
+  next_slide_transition: ""
+  why_this_order_is_scientifically_necessary: ""
+content:
+  exact_on_slide_text: []
+  required_claims: []
+  key_numbers: []
+  definitions: []
+  assumptions: []
+  cautions: []
+  presenter_interpretation: []
+  author_interpretation: []
+  external_interpretation: []
+evidence:
+  - source_type: "paper_main | supplement | protocol | official_source | original_theory | methods_paper | systematic_review | related_study | user_material"
+    source_title: ""
+    pdf_page: ""
+    table_or_figure: ""
+    exact_claim: ""
+    full_text_checked: false
+visual:
+  approved_style_direction: "A"
+  benchmark_reference: "user_template | previous_approved_deck | default_benchmark"
+  academic_visual_rationale: "Why this visual form fits the scientific logic"
+  reading_path: "left_to_right | top_to_bottom | evidence_then_interpretation | other"
+  primary_visual: ""
+  source_figure_or_panel: ""
+  result_slide_one_figure_rule: true
+  native_objects: []
+  source_figure_crop: false
+  native_chart: false
+  native_table: false
+  generated_full_slide_reference_required: true
+  generated_full_slide_reference_file: "slide-001-image2-reference.png"
+  generated_full_slide_prompt: ""
+  generated_full_slide_revision: 1
+  transparent_assets_needed: []
+  intentional_negative_space: true
+  projection_readability_plan: ""
+  image_generation_constraints:
+    - "No invented statistics or formal chart data"
+    - "No reliance on generated text"
+    - "No irrelevant decorative medical imagery"
+    - "Use the page-specific scientific argument"
+reconstruction:
+  coordinate_map_defined: false
+  native_text_boxes: []
+  native_shapes: []
+  native_tables: []
+  native_charts: []
+  verified_source_images: []
+  transparent_generated_assets: []
+  full_slide_image_used_as_background: false
+  reconstruction_notes: ""
+interpretation_panel:
+  what_it_shows: ""
+  how_to_read: ""
+  key_result: ""
+  direction_and_magnitude: ""
+  statistical_meaning: ""
+  scientific_or_clinical_meaning: ""
+  research_question_answered: ""
+  what_it_cannot_show: ""
+references:
+  mode: "in_text | short_footer | source_note | combination"
+  short_references: []
+  full_reference_list_entry_ids: []
+  figure_table_source_note: ""
+quality_checks:
+  blueprint_complete: false
+  exact_numbers_verified: false
+  source_location_verified: false
+  cited_source_supports_claim: false
+  one_dominant_conclusion: false
+  adjacent_slide_logic_clear: false
+  reading_path_clear: false
+  image2_reference_generated: false
+  image2_reference_matches_page_logic: false
+  figure_table_readable_in_projection: false
+  result_one_figure_rule_checked: false
+  reconstruction_matches_reference: false
+  no_full_slide_flattening: false
+  reference_marker_present: false
+  reference_readable: false
+  text_overflow_checked: false
+  editability_checked: false

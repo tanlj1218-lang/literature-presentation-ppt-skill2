@@ -1,0 +1,47 @@
+project_name: "example-literature-report"
+paper_pdf: "inputs/paper.pdf"
+supplements: []
+user_template: null
+approved_previous_deck: null
+presentation_language: "zh-CN"
+target_minutes: 45
+slide_ratio: "16:9"
+font_cn: "Microsoft YaHei"
+main_slide_target: "38-46"
+appendix_slide_target: "8-18"
+maximum_section_dividers: 4
+required_sections:
+  - article_profile
+  - abstract
+  - introduction
+  - theoretical_foundation
+  - methods
+  - results
+  - discussion
+  - methodological_appraisal
+  - summary
+  - implications_for_user_research
+  - reproducibility_appendix
+visual_reference_generation: true
+native_ppt_reconstruction: true
+evidence_tracking: true
+external_literature_search: true
+theory_reconstruction: true
+references_on_every_substantive_slide: true
+reference_display_mode: "layered"
+style_approval_required: true
+style_approval_waived: false
+default_visual_benchmark: "assets/default-visual-benchmark"
+maximum_cards_per_normal_slide: 3
+
+full_deck_blueprint_required: true
+content_architecture_approval_required: true
+content_architecture_approval_waived: false
+per_slide_image2_reference_required: true
+per_slide_image2_reference_scope: "main_and_appendix"
+image2_reference_naming: "slide-{number:03d}-image2-reference.png"
+image_to_ppt_element_reconstruction_required: true
+full_slide_generated_image_as_background_allowed: false
+result_slide_rule: "one_figure_or_coherent_panel_plus_one_interpretation"
+slide_production_manifest_required: true
+count_equality_required: "slide_specs=image2_references=manifest_rows=ppt_slides"
